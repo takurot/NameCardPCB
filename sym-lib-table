@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32S3-wroom")(type "Legacy")(uri "${KIPRJMOD}/lib/ESP32S3-wroom-kicadfp-main/ESP32S3-wroom.lib")(options " pwr_sym_only")(descr ""))
+  (lib (name "S2B-PH-K-S_LF__SN_")(type "Legacy")(uri "${KIPRJMOD}/lib/S2B-PH-K-S_LF__SN_/S2B-PH-K-S_LF__SN_.lib")(options " pwr_sym_only pwr_sym_only")(descr ""))
+  (lib (name "LTST-S326KGJRKT")(type "Legacy")(uri "${KIPRJMOD}/lib/LTST-S326KGJRKT/LTST-S326KGJRKT.lib")(options " pwr_sym_only pwr_sym_only")(descr ""))
+  (lib (name "USB4110-GF-A_REVB")(type "Legacy")(uri "${KIPRJMOD}/lib/USB4110-GF-A_REVB/USB4110-GF-A_REVB.lib")(options " pwr_sym_only pwr_sym_only")(descr ""))
+  (lib (name "ADP7158ACPZ-3.3-R7")(type "Legacy")(uri "${KIPRJMOD}/lib/ADP7158ACPZ-3.3-R7/ADP7158ACPZ-3.3-R7.lib")(options " pwr_sym_only pwr_sym_only")(descr ""))
+  (lib (name "8-1437565-0")(type "Legacy")(uri "${KIPRJMOD}/lib/8-1437565-0/8-1437565-0.lib")(options "")(descr ""))
+  (lib (name "SM06B-GHS-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/lib/SM06B_GHS_TB_LF__SN_/SM06B-GHS-TB_LF__SN_.kicad_sym")(options "")(descr ""))
+  (lib (name "TL3315NF100Q")(type "KiCad")(uri "${KIPRJMOD}/lib/TL3315NF100Q/TL3315NF100Q.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LV4T125PWR")(type "KiCad")(uri "${KIPRJMOD}/lib/SN74LV4T125PWR/SN74LV4T125PWR.kicad_sym")(options "")(descr ""))
+  (lib (name "STHS34PF80TR")(type "KiCad")(uri "${KIPRJMOD}/lib/STHS34PF80TR/STHS34PF80TR.kicad_sym")(options "")(descr ""))
+)

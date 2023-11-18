@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MCP1700T-2802E/TT
+#
+DEF MCP1700T-2802E/TT U 0 40 Y Y 1 L N
+F0 "U" -186 360 50 H V L BNN
+F1 "MCP1700T-2802E/TT" -229 -556 50 H V L BNN
+F2 "SOT95P237X112-3N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "1296591" 0 0 50 H I L BNN "OC_FARNELL"
+F5 "Microchip" 0 0 50 H I L BNN "SUPPLIER"
+F6 "SOT23-3" 0 0 50 H I L BNN "PACKAGE"
+F7 "84R5175" 0 0 50 H I L BNN "OC_NEWARK"
+F8 "MCP1700T-2802E/TT" 0 0 50 H I L BNN "MPN"
+DRAW
+S -500 -400 500 200 0 0 16 f
+X VIN 3 -700 0 200 R 40 40 0 0 I 
+X GND 1 -700 -200 200 R 40 40 0 0 P 
+X VOUT 2 700 0 200 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library

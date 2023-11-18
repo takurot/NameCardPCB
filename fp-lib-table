@@ -1,0 +1,12 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "tsujikawa")(type "KiCad")(uri "${KIPRJMOD}/lib/tsujikawa")(options "")(descr ""))
+  (lib (name "ESP32S3-wroom-kicadfp-main")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32S3-wroom-kicadfp-main")(options "")(descr ""))
+  (lib (name "SN74LV4T125PWR")(type "KiCad")(uri "${KIPRJMOD}/lib/SN74LV4T125PWR")(options "")(descr ""))
+  (lib (name "USB4110-GF-A_REVB")(type "KiCad")(uri "${KIPRJMOD}/lib/USB4110-GF-A_REVB")(options "")(descr ""))
+  (lib (name "SM06B_GHS_TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/lib/SM06B_GHS_TB_LF__SN_")(options "")(descr ""))
+  (lib (name "TL3315NF100Q")(type "KiCad")(uri "${KIPRJMOD}/lib/TL3315NF100Q")(options "")(descr ""))
+  (lib (name "LTST-S326KGJRKT")(type "KiCad")(uri "${KIPRJMOD}/lib/LTST-S326KGJRKT")(options "")(descr ""))
+  (lib (name "ADP7158ACPZ-3.3-R7")(type "KiCad")(uri "${KIPRJMOD}/lib/ADP7158ACPZ-3.3-R7")(options "")(descr ""))
+  (lib (name "STHS34PF80TR")(type "KiCad")(uri "${KIPRJMOD}/lib/STHS34PF80TR")(options "")(descr ""))
+)

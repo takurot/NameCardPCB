@@ -1,0 +1,38 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# APHBM2012QBDSURKC
+#
+DEF APHBM2012QBDSURKC D 0 40 Y N 1 L N
+F0 "D" -340 90 50 H V L BNN
+F1 "APHBM2012QBDSURKC" -341 -531 50 H V L BNN
+F2 "OSCCC125X200X45-4N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "KingBright" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+P 2 0 0 10 -100 60 -100 -60 N
+P 2 0 0 10 -100 -60 0 0 N
+P 2 0 0 10 0 0 -100 60 N
+P 2 0 0 10 0 60 0 -60 N
+P 2 0 0 6 -100 0 -200 0 N
+P 2 0 0 10 -30 80 40 160 N
+P 2 0 0 10 -70 80 0 160 N
+P 2 0 0 10 -100 -360 0 -300 N
+P 2 0 0 10 0 -300 -100 -240 N
+P 2 0 0 10 0 -240 0 -360 N
+P 2 0 0 6 -100 -300 -200 -300 N
+P 2 0 0 10 -30 -220 40 -140 N
+P 2 0 0 10 -70 -220 0 -140 N
+T 0 100 100 50 0 0 0 B Normal 0 L B
+T 0 100 -200 50 0 0 0 R Normal 0 L B
+S -100 -360 -100 -240 0 0 10 f
+X ~ 2 200 0 200 L 40 40 0 0 P 
+X ~ 1 -300 0 100 R 40 40 0 0 P 
+X ~ 3 200 -300 200 L 40 40 0 0 P 
+X ~ 4 -300 -300 100 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
